@@ -22,18 +22,8 @@ The **Luhn Algorithm** (also known as the Modulus 10 or mod 10 algorithm) is a s
 
 ### Steps
 1. **Clone the repository** (or download the `.cpp` file):
-   ```sh
-   git clone https://github.com/yourusername/Credit-Card-Validator.git
-   cd Credit-Card-Validator
-   ```
 2. **Compile the program**:
-   ```sh
-   g++ credit_card_validator.cpp -o validator
-   ```
-3. **Run the program**:
-   ```sh
-   ./validator
-   ```
+3. **Run the program**
 4. **Enter a credit card number** to check if it is valid.
 5. **Type 'exit'** to quit the program.
 
